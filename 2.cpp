@@ -14,8 +14,10 @@ int main(void){
     std::cout <<"Ingresar Hipotenusa\n";
     std::cin >> c;
     
-    
-    
-    
+    if(sqrt(a*a+b*b) == c){
+        std::cout <<"Si\n";
+    }else{
+        std::cout <<"No\n";
+    }
 return 0;
 }

@@ -7,11 +7,11 @@ int main(void){
     int b;
     int c;
     
-    std::cout <<"Primer Numero\n";
+    std::cout <<"Ingresar primer cateto\n";
     std::cin >> a;
-    std::cout <<"Segundo Numero\n";
+    std::cout <<"Ingresar segundo cateto\n";
     std::cin >> b;
-    std::cout <<"Tercer Numero\n";
+    std::cout <<"Ingresar Hipotenusa\n";
     std::cin >> c;
     
     
